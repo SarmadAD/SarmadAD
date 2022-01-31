@@ -1,5 +1,3 @@
-Sarmad Ahmad
-
 ## Vorstellung
 Mein Name ist Sarmad und ich bin in Ahaus geboren. 
 
