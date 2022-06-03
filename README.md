@@ -2,7 +2,7 @@
 <h1>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-### 👨‍💻: About Me :
+### 👨‍💻:About Me :
 I am an aspiring web developer from Germany
 - :books: I am currently in further training and learning the most important topics in web development 
 
