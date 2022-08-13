@@ -4,7 +4,6 @@
 
 ### 👨‍💻:About Me :
 I am an aspiring web developer from Germany
-- :books: I am currently in further training and learning the most important topics in web development 
 
 - :seedling: Exploring the world of web development
 
