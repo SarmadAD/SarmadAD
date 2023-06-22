@@ -5,7 +5,7 @@
 ### 👨‍💻:About Me :
 I am an aspiring web developer from Germany
 
-- :seedling: Exploring the world of web development
+- :seedling: Web development
 
 - 🌴: In my free time, I play cricket 🏏, read books 📚, play computergames 🎮 and i´m currently learning to play the guitar 🎸. 
 
