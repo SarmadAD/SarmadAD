@@ -3,9 +3,7 @@
 </div>
 
 ### 👨‍💻:About Me :
-I am an aspiring web developer from Germany
-
-- :seedling: Web development
+I am a Web developer and Software Expert from Germany
 
 - 🌴: In my free time, I play cricket 🏏, read books 📚, play computergames 🎮 and i´m currently learning to play the guitar 🎸. 
 
