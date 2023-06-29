@@ -6,6 +6,7 @@
 I am a Web developer and Software Expert from Germany
 
 - 🌴: In my free time, I play cricket 🏏 read books 📚 play computergames 🎮 and i´m currently learning to play the guitar 🎸
+  
 - 👨🏽‍💻 I am currently developing my own SaaS platform 
 ---
 > _The true greatness lies in gratitude for what we have, authenticity that sets us apart, and unconditional love we bring into the world_
