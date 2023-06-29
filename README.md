@@ -12,7 +12,7 @@ I am a Web developer and Software Expert from Germany
 
 
 ---
-> _The true greatness lies in gratitude for what we have, authenticity that sets us apart, and unconditional love we bring into the world._
+> _The true greatness lies in gratitude for what we have, authenticity that sets us apart, and unconditional love we bring into the world_
 
 ---
 
