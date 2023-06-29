@@ -29,8 +29,6 @@ I am a Web developer and Software Expert from Germany
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
----
-
 ### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SarmadAD&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
