@@ -7,10 +7,6 @@ I am a Web developer and Software Expert from Germany
 
 - 🌴: In my free time, I play cricket 🏏 read books 📚 play computergames 🎮 and i´m currently learning to play the guitar 🎸
 - 👨🏽‍💻 I am currently developing my own SaaS platform 
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sarmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarmad-ahmad-409085217/)
-
-
 ---
 > _The true greatness lies in gratitude for what we have, authenticity that sets us apart, and unconditional love we bring into the world_
 
