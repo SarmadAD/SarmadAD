@@ -5,7 +5,7 @@
 ### 👨‍💻:About Me :
 I am a Web developer and Software Expert from Germany
 
-- 🌴: In my free time, I play cricket 🏏 read books 📚 play computergames 🎮 and i´m currently learning to play the guitar 🎸
+- 🌴: In my free time, I read books 📚 play computergames 🎮 train at the gym 🏋️‍♂️ and i´m currently learning to play the guitar 🎸
   
 - 👨🏽‍💻 I am currently developing my own SaaS platform 
 ---
