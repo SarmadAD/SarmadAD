@@ -10,6 +10,10 @@ I am a Web developer and Software Expert from Germany
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sarmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarmad-ahmad-409085217/)
 
+
+---
+> _The true greatness lies in gratitude for what we have, authenticity that sets us apart, and unconditional love we bring into the world._
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
