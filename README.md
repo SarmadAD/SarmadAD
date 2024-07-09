@@ -5,8 +5,10 @@
 ### 👨‍💻:About Me :
 I am a Web developer and Software Expert from Germany
 
-- 🌴: In my free time, I read books 📚 play computergames 🎮 train at the gym 🏋️‍♂️ and i´m currently learning to play the guitar 🎸
-- 🔐 Exploring the world of Web3 
+🌴 In my free time, I read books 📚 play computergames 🎮 train at the gym 🏋️‍♂️ and i´m currently learning to play the guitar 🎸
+
+🔐 Exploring the world of Web3 
+
 ---
 > _The true greatness lies in gratitude for what we have, authenticity that sets us apart, and unconditional love we bring into the world_
 
