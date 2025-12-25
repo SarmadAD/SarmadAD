@@ -13,7 +13,7 @@ I am a Web developer and Software Expert from Germany
 ---
 
 ### :hammer_and_wrench: Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,cs,html,css,react,ts,nextjs,nodejs,git,github,vscode,planetscale,prisma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,html,css,nodejs,cs,git,github,vscode,planetscale,prisma&perline=7)](https://skillicons.dev)
 
 ### 🔥My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SarmadAD&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
