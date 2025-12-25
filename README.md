@@ -2,7 +2,7 @@
 <h1>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="50px"/></h1>
 </div>
 
-### 👨‍💻:About Me :
+### 👨‍💻 About Me
 I am a Web developer and Software Expert from Germany
 
 🌴 In my free time, I read books 📚 play computergames 🎮 train at the gym 🏋️‍♂️ and i´m currently learning to play the guitar 🎸
